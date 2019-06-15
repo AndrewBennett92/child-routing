@@ -1,0 +1,16 @@
+{
+  "name": "JET_TypeScript_Starter_Template",
+  "version": "2.0.0",
+  "description": "An Oracle JavaScript Extension Toolkit(JET) web app for TypeScript",
+  "dependencies": {
+    "@oracle/oraclejet": "7.0.1"
+  },
+  "devDependencies": {
+    "@oracle/oraclejet-tooling": "~7.0.0",
+    "fs-extra": "~7.0.1"
+  },
+  "engines": {
+    "node": ">=5.0.0"
+  },
+  "private": true
+}
